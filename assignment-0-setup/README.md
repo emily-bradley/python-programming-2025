@@ -1,7 +1,8 @@
-# Assignment 0: Course Setup
+# Assignment 0: Welcome to Python Programming!
 
 Welcome to **Python Programming – Spring 2025**!  
-This short assignment will help you get your environment ready and ensure you're set up for success in the course.
+
+This assignment is a quick walk-through to help you get set up logistically for the course.  It isn't a real assignment (no problems to solve) and counts towards a small percentage of your grade (because you can't do the other assignments without it!).
 
 ---
 
@@ -13,6 +14,8 @@ This short assignment will help you get your environment ready and ensure you're
 - Understand the basic tools used in this course  
 
 ---
+
+**READ ALL OF THESE STEPS BEFORE RUNNING ANYTHING!**
 
 ## 🧰 Instructions
 
@@ -85,7 +88,6 @@ git add .
 git commit -m "Completed Assignment 0"
 git push
 ```
-
 > ✅ **For all assignments in this course**, it’s your responsibility to ensure your submission is pushed to your GitHub Classroom repository.
 
 ### 💡 Optional: Use GitHub Web Interface Instead
@@ -135,3 +137,4 @@ Continue on to **Assignment 1** once it’s released.
 ---
 
 Happy setup! 🎉
+
